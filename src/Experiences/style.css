@@ -1,0 +1,18 @@
+.heading{
+    color:#0000ff;
+     padding-right:20px;
+     justify-content: space-evenly;
+ }
+ p{
+    font-size: 16px;
+    margin-left: 24%;
+    /* color: greenyellow; */
+
+ }
+ h2{
+    color: #ff5e00;
+    margin-left: 20%;
+ }
+ #lego{
+    margin-left: 30%;
+ }
